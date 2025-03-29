@@ -1,0 +1,28 @@
+2024-11-04 11:37:49,327 - INFO - Iniciando a execucao de 4 testes.
+2024-11-04 11:37:49,805 - INFO - \u2705 Teste passou: 1 (Duracao: 0.47s)
+2024-11-04 11:37:49,813 - INFO - \u2705 Teste passou: 2 (Duracao: 0.01s)
+2024-11-04 11:37:49,822 - INFO - \u2705 Teste passou: 3 (Duracao: 0.01s)
+2024-11-04 11:37:49,831 - INFO - \u2705 Teste passou: 4 (Duracao: 0.01s)
+2024-11-04 11:37:49,833 - INFO - Execucao concluida: 4/4 testes passaram.
+
+2024-11-04 16:40:45,288 - INFO - Iniciando a execucao de 4 testes.
+2024-11-04 16:40:46,059 - INFO - \u2705 Teste passou: 1 (Duracao: 0.77s)
+2024-11-04 16:40:46,068 - INFO - \u2705 Teste passou: 2 (Duracao: 0.01s)
+2024-11-04 16:40:46,076 - INFO - \u2705 Teste passou: 3 (Duracao: 0.01s)
+2024-11-04 16:40:46,083 - INFO - \u2705 Teste passou: 4 (Duracao: 0.01s)
+2024-11-04 16:40:46,086 - INFO - Execucao concluida: 4/4 testes passaram.
+
+2024-11-04 21:11:09,249 - INFO - Iniciando a execucao de 4 testes.
+2024-11-04 21:11:10,102 - INFO - \u2705 Teste passou: 1 (Duracao: 0.85s)
+2024-11-04 21:11:10,113 - INFO - \u2705 Teste passou: 2 (Duracao: 0.01s)
+2024-11-04 21:11:10,123 - INFO - \u2705 Teste passou: 3 (Duracao: 0.01s)
+2024-11-04 21:11:10,133 - INFO - \u2705 Teste passou: 4 (Duracao: 0.01s)
+2024-11-04 21:11:10,134 - INFO - Execucao concluida: 4/4 testes passaram.
+
+2024-11-04 21:18:47,305 - INFO - Iniciando a execucao de 4 testes.
+2024-11-04 21:18:47,939 - INFO - \u2705 Teste passou: 1 (Duracao: 0.63s)
+2024-11-04 21:18:47,950 - INFO - \u2705 Teste passou: 2 (Duracao: 0.01s)
+2024-11-04 21:18:47,960 - INFO - \u2705 Teste passou: 3 (Duracao: 0.01s)
+2024-11-04 21:18:47,972 - INFO - \u2705 Teste passou: 4 (Duracao: 0.01s)
+2024-11-04 21:18:47,973 - INFO - Execucao concluida: 4/4 testes passaram.
+

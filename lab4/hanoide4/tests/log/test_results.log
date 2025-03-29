@@ -1,0 +1,104 @@
+2024-10-30 16:46:04,875 - INFO - Iniciando a execucao de 10 testes.
+2024-10-30 16:46:04,903 - INFO - \u2705 Teste passou: inicializar (Duracao: 0.03s)
+2024-10-30 16:46:04,909 - INFO - \u2705 Teste passou: entrar (Duracao: 0.01s)
+2024-10-30 16:46:04,918 - INFO - \u2705 Teste passou: limite (Duracao: 0.01s)
+2024-10-30 16:46:04,926 - INFO - \u2705 Teste passou: sair (Duracao: 0.01s)
+2024-10-30 16:46:04,934 - INFO - \u2705 Teste passou: limite_saida (Duracao: 0.01s)
+2024-10-30 16:46:04,941 - INFO - \u2705 Teste passou: abastecer (Duracao: 0.01s)
+2024-10-30 16:46:04,949 - INFO - \u2705 Teste passou: dirigir_vazio (Duracao: 0.01s)
+2024-10-30 16:46:04,957 - INFO - \u2705 Teste passou: dirigir (Duracao: 0.01s)
+2024-10-30 16:46:04,964 - ERROR - \u274c Teste falhou: para_longe (Duracao: 0.01s)
+2024-10-30 16:46:04,976 - ERROR - \u274c Teste falhou: enchendo_o_tanque (Duracao: 0.01s)
+2024-10-30 16:46:04,981 - INFO - Execucao concluida: 8/10 testes passaram.
+
+2024-10-30 16:47:35,940 - INFO - Iniciando a execucao de 10 testes.
+2024-10-30 16:47:36,363 - INFO - \u2705 Teste passou: inicializar (Duracao: 0.42s)
+2024-10-30 16:47:36,370 - INFO - \u2705 Teste passou: entrar (Duracao: 0.01s)
+2024-10-30 16:47:36,379 - INFO - \u2705 Teste passou: limite (Duracao: 0.01s)
+2024-10-30 16:47:36,386 - INFO - \u2705 Teste passou: sair (Duracao: 0.01s)
+2024-10-30 16:47:36,393 - INFO - \u2705 Teste passou: limite_saida (Duracao: 0.01s)
+2024-10-30 16:47:36,402 - INFO - \u2705 Teste passou: abastecer (Duracao: 0.01s)
+2024-10-30 16:47:36,410 - INFO - \u2705 Teste passou: dirigir_vazio (Duracao: 0.01s)
+2024-10-30 16:47:36,417 - INFO - \u2705 Teste passou: dirigir (Duracao: 0.01s)
+2024-10-30 16:47:36,425 - ERROR - \u274c Teste falhou: para_longe (Duracao: 0.01s)
+2024-10-30 16:47:36,435 - ERROR - \u274c Teste falhou: enchendo_o_tanque (Duracao: 0.01s)
+2024-10-30 16:47:36,441 - INFO - Execucao concluida: 8/10 testes passaram.
+
+2024-10-30 16:47:52,346 - INFO - Iniciando a execucao de 10 testes.
+2024-10-30 16:47:52,813 - INFO - \u2705 Teste passou: inicializar (Duracao: 0.47s)
+2024-10-30 16:47:52,820 - INFO - \u2705 Teste passou: entrar (Duracao: 0.01s)
+2024-10-30 16:47:52,828 - INFO - \u2705 Teste passou: limite (Duracao: 0.01s)
+2024-10-30 16:47:52,836 - INFO - \u2705 Teste passou: sair (Duracao: 0.01s)
+2024-10-30 16:47:52,844 - INFO - \u2705 Teste passou: limite_saida (Duracao: 0.01s)
+2024-10-30 16:47:52,851 - INFO - \u2705 Teste passou: abastecer (Duracao: 0.01s)
+2024-10-30 16:47:52,860 - INFO - \u2705 Teste passou: dirigir_vazio (Duracao: 0.01s)
+2024-10-30 16:47:52,867 - INFO - \u2705 Teste passou: dirigir (Duracao: 0.01s)
+2024-10-30 16:47:52,875 - INFO - \u2705 Teste passou: para_longe (Duracao: 0.01s)
+2024-10-30 16:47:52,883 - INFO - \u2705 Teste passou: enchendo_o_tanque (Duracao: 0.01s)
+2024-10-30 16:47:52,884 - INFO - Execucao concluida: 10/10 testes passaram.
+
+2024-10-30 16:48:34,636 - INFO - Iniciando a execucao de 10 testes.
+2024-10-30 16:48:35,068 - INFO - \u2705 Teste passou: inicializar (Duracao: 0.43s)
+2024-10-30 16:48:35,075 - INFO - \u2705 Teste passou: entrar (Duracao: 0.01s)
+2024-10-30 16:48:35,084 - INFO - \u2705 Teste passou: limite (Duracao: 0.01s)
+2024-10-30 16:48:35,091 - INFO - \u2705 Teste passou: sair (Duracao: 0.01s)
+2024-10-30 16:48:35,100 - INFO - \u2705 Teste passou: limite_saida (Duracao: 0.01s)
+2024-10-30 16:48:35,106 - INFO - \u2705 Teste passou: abastecer (Duracao: 0.01s)
+2024-10-30 16:48:35,115 - INFO - \u2705 Teste passou: dirigir_vazio (Duracao: 0.01s)
+2024-10-30 16:48:35,122 - INFO - \u2705 Teste passou: dirigir (Duracao: 0.01s)
+2024-10-30 16:48:35,130 - INFO - \u2705 Teste passou: para_longe (Duracao: 0.01s)
+2024-10-30 16:48:35,137 - INFO - \u2705 Teste passou: enchendo_o_tanque (Duracao: 0.01s)
+2024-10-30 16:48:35,138 - INFO - Execucao concluida: 10/10 testes passaram.
+
+2024-12-05 15:13:55,346 - INFO - Iniciando a execucao de 4 testes.
+2024-12-05 15:13:56,256 - ERROR - \u274c Teste falhou:  (Duracao: 0.91s)
+2024-12-05 15:13:56,270 - ERROR - \u274c Teste falhou: 2 (Duracao: 0.01s)
+2024-12-05 15:13:56,289 - ERROR - \u274c Teste falhou: 3 (Duracao: 0.01s)
+2024-12-05 15:13:56,317 - ERROR - \u274c Teste falhou: 4 (Duracao: 0.01s)
+2024-12-05 15:13:56,347 - INFO - Execucao concluida: 0/4 testes passaram.
+
+2024-12-05 15:14:36,142 - INFO - Iniciando a execucao de 4 testes.
+2024-12-05 15:14:36,551 - ERROR - \u274c Teste falhou:  (Duracao: 0.41s)
+2024-12-05 15:14:36,566 - ERROR - \u274c Teste falhou: 2 (Duracao: 0.01s)
+2024-12-05 15:14:36,584 - ERROR - \u274c Teste falhou: 3 (Duracao: 0.01s)
+2024-12-05 15:14:36,607 - ERROR - \u274c Teste falhou: 4 (Duracao: 0.01s)
+2024-12-05 15:14:36,620 - INFO - Execucao concluida: 0/4 testes passaram.
+
+2024-12-05 15:15:36,329 - INFO - Iniciando a execucao de 4 testes.
+2024-12-05 15:15:36,850 - ERROR - \u274c Teste falhou:  (Duracao: 0.52s)
+2024-12-05 15:15:36,859 - ERROR - \u274c Teste falhou: 2 (Duracao: 0.01s)
+2024-12-05 15:15:36,877 - ERROR - \u274c Teste falhou: 3 (Duracao: 0.01s)
+2024-12-05 15:15:36,889 - ERROR - \u274c Teste falhou: 4 (Duracao: 0.01s)
+2024-12-05 15:15:36,896 - INFO - Execucao concluida: 0/4 testes passaram.
+
+2024-12-05 15:15:58,589 - INFO - Iniciando a execucao de 4 testes.
+2024-12-05 15:15:59,018 - INFO - \u2705 Teste passou:  (Duracao: 0.43s)
+2024-12-05 15:15:59,027 - INFO - \u2705 Teste passou: 2 (Duracao: 0.01s)
+2024-12-05 15:15:59,037 - INFO - \u2705 Teste passou: 3 (Duracao: 0.01s)
+2024-12-05 15:15:59,047 - INFO - \u2705 Teste passou: 4 (Duracao: 0.01s)
+2024-12-05 15:15:59,048 - INFO - Execucao concluida: 4/4 testes passaram.
+
+2024-12-05 15:17:33,471 - INFO - Iniciando a execucao de 5 testes.
+2024-12-05 15:17:33,501 - INFO - \u2705 Teste passou:  (Duracao: 0.03s)
+2024-12-05 15:17:33,510 - INFO - \u2705 Teste passou: 2 (Duracao: 0.01s)
+2024-12-05 15:17:33,520 - INFO - \u2705 Teste passou: 3 (Duracao: 0.01s)
+2024-12-05 15:17:33,529 - INFO - \u2705 Teste passou: 4 (Duracao: 0.01s)
+2024-12-05 15:17:33,540 - ERROR - \u274c Teste falhou: 5 (Duracao: 0.01s)
+2024-12-05 15:17:33,551 - INFO - Execucao concluida: 4/5 testes passaram.
+
+2024-12-05 15:18:48,970 - INFO - Iniciando a execucao de 5 testes.
+2024-12-05 15:18:48,991 - INFO - \u2705 Teste passou:  (Duracao: 0.02s)
+2024-12-05 15:18:48,999 - INFO - \u2705 Teste passou: 2 (Duracao: 0.01s)
+2024-12-05 15:18:49,009 - INFO - \u2705 Teste passou: 3 (Duracao: 0.01s)
+2024-12-05 15:18:49,019 - INFO - \u2705 Teste passou: 4 (Duracao: 0.01s)
+2024-12-05 15:18:49,028 - INFO - \u2705 Teste passou: 5 (Duracao: 0.01s)
+2024-12-05 15:18:49,029 - INFO - Execucao concluida: 5/5 testes passaram.
+
+2024-12-05 15:52:45,844 - INFO - Iniciando a execucao de 5 testes.
+2024-12-05 15:52:46,544 - ERROR - \u274c Teste falhou:  (Duracao: 0.70s)
+2024-12-05 15:52:46,556 - ERROR - \u274c Teste falhou: 2 (Duracao: 0.01s)
+2024-12-05 15:52:46,569 - ERROR - \u274c Teste falhou: 3 (Duracao: 0.01s)
+2024-12-05 15:52:46,584 - ERROR - \u274c Teste falhou: 4 (Duracao: 0.01s)
+2024-12-05 15:52:46,599 - ERROR - \u274c Teste falhou: 5 (Duracao: 0.01s)
+2024-12-05 15:52:46,606 - INFO - Execucao concluida: 0/5 testes passaram.
+
